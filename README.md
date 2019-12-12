@@ -21,6 +21,12 @@ WM-I-Z-S1-E5-PZ
       <li><a href="https://www.sfml-dev.org/documentation/2.0/group__network.php">SFML Documentation</a></li>
     </ul>
   </li>
+  <li>
+    QT framework (would like to make with):
+    <ul>
+      <li><a href="https://doc.qt.io/qt-5/qtnetwork-index.html">QT Network Documentation</a></li>
+    </ul>
+  </li>
 </ul>
 <hr>
 Olaf Gontarczyk<br/>
