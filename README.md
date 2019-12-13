@@ -19,6 +19,7 @@ WM-I-Z-S1-E5-PZ
     SFML (current version):
     <ul>
       <li><a href="https://www.sfml-dev.org/documentation/2.0/group__network.php">SFML Documentation</a></li>
+      <li><a href="https://www.youtube.com/watch?v=eTe7IVncH5E"> Setup in Visual Studio</a></li>
     </ul>
   </li>
   <li>
