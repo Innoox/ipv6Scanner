@@ -30,5 +30,5 @@ WM-I-Z-S1-E5-PZ
   </li>
 </ul>
 <hr>
-<a href="https://github.com/olaf-g" target="_blank">Olaf Gontarczyk</a>
-<a href="https://github.com/Innoox" target="_blank">Kostiantyn Ostapenko</a>
+<p><a href="https://github.com/olaf-g" target="_blank">Olaf Gontarczyk</a></p>
+<p><a href="https://github.com/Innoox" target="_blank">Kostiantyn Ostapenko</a></p>
